@@ -1,0 +1,10 @@
+*.json
+tokenizer*
+all-mpnet-base-v2/
+*.htm
+chroma_db/
+*.parquet
+models/
+.ipynb_checkpoints/
+data/pdfs/
+myenv/
