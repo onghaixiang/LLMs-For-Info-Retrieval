@@ -12,7 +12,7 @@ To run:
 1. Install any Python version above 3.10.0. Do take note that this was tested with [Python 3.11.0](https://www.python.org/downloads/release/python-3110/). Remember to add python.exe to PATH.
 2. Run in terminal:
     ```
-    git clone https://github.com/onghaixiang/TODO
+    git clone https://github.com/onghaixiang/LLMs-For-Info-Retrieval.git
     ``` 
 3. Install [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html).
 4. Download [cuda](https://developer.nvidia.com/cuda-downloads).
