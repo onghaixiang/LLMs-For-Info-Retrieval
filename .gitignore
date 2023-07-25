@@ -6,5 +6,4 @@ chroma_db/
 *.parquet
 models/
 .ipynb_checkpoints/
-data/pdfs/
 myenv/
